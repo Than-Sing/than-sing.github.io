@@ -26,11 +26,11 @@ In my undergraduate, I have won the Finalist Winner of 2024 Mathematical Contest
 My research interest includes **optimization, deep learning theory and scientific computing.**
 
 
-# 👨🏻‍🎓 [Curriculum Vitae](pdfs/CV_in_English.pdf)
+# :student: [Curriculum Vitae](pdfs/CV_in_English.pdf)
 
 
 
-# 📝 Publications 
+# :memo: Publications 
 
 <div class='paper-box'>
 
@@ -57,7 +57,7 @@ My research interest includes **optimization, deep learning theory and scientifi
 
 
 
-# 🎖️ Honors and Awards
+# :trophy: Honors and Awards
 - *2023* Huawei Scholarship (Top 5%).
 - *2022* Zhiyuan Outstanding Leader Scholarship.
 - *2022* The First Prize Scholarship for Excellent Student (Top 1%).
@@ -66,12 +66,12 @@ My research interest includes **optimization, deep learning theory and scientifi
 
 
 
-# 📖 Educations
+# :book: Educations
 - *2021.08 - 2025.06 (expected)*, Undergraduate, Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
 - *2024.01 - 2024.05*, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
 
 
 
-# 💻 Internships
+# :computer: Internships
 - *2022.11 - Present*, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University.
 - *2024.01 - Present*, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
