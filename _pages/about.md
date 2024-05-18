@@ -30,7 +30,7 @@ My research interest includes **optimization, deep learning theory and scientifi
 
 
 
-# :memo: Publications 
+# :memo: Publications <a id="publications"></a>
 
 <div class='paper-box'>
 
