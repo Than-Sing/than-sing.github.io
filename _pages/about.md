@@ -30,7 +30,7 @@ My research interest includes **optimization, deep learning theory and scientifi
 
 
 
-# 📝 Publications <a id="publications"></a>
+# 📝 Publications
 
 <div class='paper-box'>
 
