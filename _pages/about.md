@@ -53,9 +53,6 @@ My research interest includes **optimization, deep learning theory and scientifi
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
 
 # 🏆 Honors and Awards
 - *2023* Huawei Scholarship (Top 5%).
@@ -73,5 +70,5 @@ My research interest includes **optimization, deep learning theory and scientifi
 
 
 # 💻 Internships
-- *2022.11 - Present*, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University.
+- *2022.11 - Present*, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
 - *2024.01 - Present*, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
