@@ -28,7 +28,17 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 - The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling
 - The Third Prize of 2022 China Undergraduate Mathematical Contest in Modelling
 
-My research interest includes `optimization`, `deep learning theory` and `scientific computing`.
+My research interests are mainly 
+<span style="color: blue; font-style: ">
+optimization,
+</span>
+<span style="color: blue; font-style: ">
+deep learning theory,
+</span>
+and
+<span style="color: blue; font-style: ">
+scientific computing.
+</span>
 I am studying the acceleration algorithm of Bayesian optimization under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In addition, I am also committed to studying the generalization of infinite deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
 
 # 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf)
@@ -60,18 +70,18 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 
 
 # 🏆 Honors and Awards
-- *2023* Huawei Scholarship (Top 5%).
-- *2022* Zhiyuan Outstanding Leader Scholarship.
-- *2022* The First Prize Scholarship for Excellent Student (Top 1%).
-- *2022* Merit Student (Top 1%).
-- *2021-2023* Zhiyuan Honors Scholarship (3x).
+- *2023*, Huawei Scholarship (Top 5%).
+- *2022*, Zhiyuan Outstanding Leader Scholarship.
+- *2022*, The First Prize Scholarship for Excellent Student (Top 1%).
+- *2022*, Merit Student (Top 1%).
+- *2021-2023*, Zhiyuan Honors Scholarship (3x).
 
 
 
 # 📖 Educations
 - *2021.08 - 2025.06 (expected)*, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
 - *2024.01 - 2024.05*, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
-- *2023.08*, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
+- *2023.08*, Participant, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
 
 
 
