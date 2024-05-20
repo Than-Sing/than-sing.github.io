@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics, advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong, advised by [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
+I'm now a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics. In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong.
 
-During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests and contests in modeling in my spare time. Here are some of the awards:
+During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many contests in mathematics and modeling in my spare time.  Here are some of the awards:
 - The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%)
 - The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Applied \& Comp. Math)
 - The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division)
@@ -29,13 +29,13 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 - The Third Prize of 2022 China Undergraduate Mathematical Contest in Modelling
 
 My research interest includes `optimization`, `deep learning theory` and `scientific computing`.
-
+I am studying the acceleration algorithm of Bayesian optimization under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In addition, I am also committed to studying the generalization of infinite deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
 
 # 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf)
 
 
 
-# 📝 Publications
+# 📝 Projects
 
 <div class='paper-box'>
 
@@ -52,7 +52,7 @@ My research interest includes `optimization`, `deep learning theory` and `scient
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project**
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -71,6 +71,7 @@ My research interest includes `optimization`, `deep learning theory` and `scient
 # 📖 Educations
 - *2021.08 - 2025.06 (expected)*, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
 - *2024.01 - 2024.05*, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
+- *2023.08*, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
 
 
 
