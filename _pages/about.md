@@ -27,7 +27,7 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 <li>The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.).</li>
 <li>The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division).</li>
 <li>The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling.</li>
-<li>The Third Prize of 2022 China Undergraduate Mathematical Contest in Modeling.</li>
+<!-- <li>The Third Prize of 2022 China Undergraduate Mathematical Contest in Modeling.</li> -->
 </ul>
 
 <!-- - The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%)
