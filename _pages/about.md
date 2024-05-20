@@ -86,10 +86,10 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 # 📖 Educations
 - *2021.08 - 2025.06 (expected)*, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
 - *2024.01 - 2024.05*, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
-- *2023.08*, Participant, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
+- *2023.08*, Student, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
 
 
 
 # 💻 Internships
-- *2022.11 - Present*, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
-- *2024.01 - Present*, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
+- *2022.11 - Present*, Research Intern, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
+- *2024.01 - Present*, Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
