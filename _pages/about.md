@@ -21,12 +21,12 @@ redirect_from:
 
 I'm now a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics. In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong.
 
-During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many contests in mathematics and modeling in my spare time.  Here are some of the awards:
+During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests in my spare time.  Here are some of the awards:
 - The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%)
 - The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Applied \& Comp. Math)
 - The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division)
 - The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling
-- The Third Prize of 2022 China Undergraduate Mathematical Contest in Modelling
+- The Third Prize of 2022 China Undergraduate Mathematical Contest in Modeling
 
 My research interests are mainly about
 <span style="color: blue; font-style: oblique">
