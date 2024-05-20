@@ -28,7 +28,7 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 - The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling
 - The Third Prize of 2022 China Undergraduate Mathematical Contest in Modelling
 
-My research interests are mainly 
+My research interests are mainly about
 <span style="color: blue; font-style: oblique">
 optimization
 </span>
