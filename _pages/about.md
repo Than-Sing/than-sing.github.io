@@ -19,11 +19,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics, advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In the spring semester of my junior year, I participated in an exchange program at the Department of Mathematics, The Chinese University of Hong Kong, advised by [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
+I'm now a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics, advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong, advised by [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
 
-In my undergraduate, I have won the Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%), the First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division) and the Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling.
+During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests and contests in modeling in my spare time. Here are some of the awards:
+- The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%)
+- The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Applied \& Comp. Math)
+- The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division)
+- The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling
+- The Third Prize of 2022 China Undergraduate Mathematical Contest in Modelling
 
-My research interest includes **optimization, deep learning theory and scientific computing.**
+My research interest includes `optimization`, `deep learning theory` and `scientific computing`.
 
 
 # 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf)
@@ -64,7 +69,7 @@ My research interest includes **optimization, deep learning theory and scientifi
 
 
 # 📖 Educations
-- *2021.08 - 2025.06 (expected)*, Undergraduate, Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
+- *2021.08 - 2025.06 (expected)*, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
 - *2024.01 - 2024.05*, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
 
 
