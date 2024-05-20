@@ -79,7 +79,7 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 - *2022*, Zhiyuan Outstanding Leader Scholarship.
 - *2022*, The First Prize Scholarship for Excellent Student (Top 1%).
 - *2022*, Merit Student (Top 1%).
-- *2021-2023*, Zhiyuan Honors Scholarship (3x).
+- *2021 - 2023*, Zhiyuan Honors Scholarship (3x).
 
 
 
