@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tansheng ZHU | 朱坦晟"
+title                    : "ZHU Tansheng | 朱坦晟"
 description              : "Junior at Zhiyuan College, Shanghai Jiao Tong University (SJTU)"
 repository               : "acRyan54/acRyan54.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tansheng ZHU"
+  name             : "ZHU Tansheng"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Mathematics, Deep Learning Theory, Optimzization"
   location         : "Shanghai, China"
