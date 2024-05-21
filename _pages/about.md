@@ -46,7 +46,7 @@ optimization
 </span>.
 I am studying the acceleration algorithm of Bayesian optimization under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In addition, I am also committed to studying the generalization of infinite deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
 
-# 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf)
+# 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf) | [简历](pdfs/CV_in_Chinese.pdf)
 
 
 
