@@ -19,13 +19,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics. In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong.
+I'm a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics. In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong.
 
 During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests in my spare time.  Here are some selected awards:
 <ul style="line-height: 100%">
-<li>The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%).</li>
-<li>The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.).</li>
-<li>The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division).</li>
+<li>The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
+<li>The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%),</li>
+<li>The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division),</li>
 <li>The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling.</li>
 <!-- <li>The Third Prize of 2022 China Undergraduate Mathematical Contest in Modeling.</li> -->
 </ul>
@@ -46,7 +46,7 @@ optimization
 </span>.
 I am studying the acceleration algorithm of Bayesian optimization under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In addition, I am also committed to studying the generalization of infinite deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
 
-# 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf)
+# 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf) | [简历](pdfs/CV_in_Chinese.pdf)
 
 
 
@@ -86,10 +86,10 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 # 📖 Educations
 - *2021.08 - 2025.06 (expected)*, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
 - *2024.01 - 2024.05*, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
-- *2023.08*, Participant, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
+- *2023.08*, Student, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
 
 
 
 # 💻 Internships
-- *2022.11 - Present*, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
-- *2024.01 - Present*, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
+- *2022.11 - Present*, Research Intern, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
+- *2024.01 - Present*, Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
