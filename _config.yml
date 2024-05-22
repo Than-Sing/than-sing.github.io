@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tansheng Zhu\n朱坦晟"
+  name             : "Tansheng Zhu"
+  name_cn             : "朱坦晟"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Mathematics,\n Deep Learning Theory,\n Optimization"
   location         : "Shanghai, China"
