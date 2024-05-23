@@ -39,7 +39,7 @@ and
 <span style="color: blue; font-size: 110%; font-weight: 120%">
 optimization
 </span>.
-I am studying the acceleration algorithm of Bayesian optimization under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In addition, I am also committed to studying the generalization of infinite deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
+I am studying more efficient Bayesian optimization and reinforcement learning algorithms under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). Moreover, I am also committed to studying the generalization of infinitely deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
 
 
 
@@ -62,7 +62,7 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 <u><b>IKR-UCB: Efficient Online Solver for Black Box Optimization Based on Kernel Estimates</b></u>
 
 **Project**
-- Accelerate the Gaussian processes based Bayesian optimization methods.
+- More efficient than the Gaussian processes based Bayesian optimization methods.
 - Kernel density induced quasi-uniform sampling.
 - Help generalize Monte Carlo tree search into continuous spaces.
 </div>
