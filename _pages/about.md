@@ -1,4 +1,4 @@
----
+![image](https://github.com/acRyan54/acRyan54.github.io/assets/89002928/af488a16-eb2b-42eb-ae26-973fd8f9f8fc)---
 permalink: /
 title: ""
 excerpt: ""
@@ -50,13 +50,13 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 
 
 
-# 📝 Projects
+# 📝 Working Papers
 
 <div class='paper-box'>
 
 <div class='paper-box-image'>
     <div>
-        <div class="badge">CVPR 2016</div>
+<!--         <div class="badge">xxx</div> -->
         <img src='images/ikrucb.gif' alt="sym" width="100%">
     </div>
 </div>
@@ -65,12 +65,14 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
 **Project**
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Accelerate the Gaussian processes based Bayesian optimization methods.
+- More efficient quasi-uniform sampling with kernel density.
+- Help generalize Monte Carlo tree search into continuous spaces.
 </div>
 </div>
+
+
 
 
 
