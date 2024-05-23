@@ -63,8 +63,8 @@ I am studying efficient algorithms in Bayesian optimization and reinforcement le
 
 **Project**
 - More efficient than the Gaussian processes based Bayesian optimization methods.
-- Kernel density induced quasi-uniform sampling.
-- Help generalize Monte Carlo tree search into continuous spaces.
+- Kernel density based exploration induces quasi-uniform sampling.
+- Help develop Monte Carlo tree search with continuous state-action spaces.
 </div>
 </div>
 
@@ -85,7 +85,7 @@ I am studying efficient algorithms in Bayesian optimization and reinforcement le
 **Project**
 - The neural tangent kernel (NTK) is induced by infinite depth and finite width.
 - Reveal the weak dependence of gradients induced by seperating layers.
-- Based on the law of large numbers for weakly dependent series.
+- Base on the law of large numbers for weakly dependent series.
 </div>
 </div>
 
