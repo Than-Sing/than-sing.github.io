@@ -22,8 +22,8 @@ redirect_from:
 I'm a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics. In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong.
 
 During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests in my spare time.  Here are some selected awards:
-<ul style="line-height: 100%">
-<li>The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
+<ul style="line-height: 110%">
+<li>The <u>Winning Prize</u> of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
 <li>The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%),</li>
 <li>The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division),</li>
 <li>The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling.</li>
@@ -32,14 +32,15 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 
 
 My research interests are mainly about
-<span style="color: blue; font-size: 120%; font-weight: 120%">
+<span style="color: blue; font-size: 110%; font-weight: 120%">
 deep learning theory
 </span>
 and
-<span style="color: blue; font-size: 120%; font-weight: 120%">
+<span style="color: blue; font-size: 110%; font-weight: 120%">
 optimization
 </span>.
 I am studying the acceleration algorithm of Bayesian optimization under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In addition, I am also committed to studying the generalization of infinite deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
+
 
 
 # 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf) | [简历](pdfs/CV_in_Chinese.pdf)
@@ -91,24 +92,24 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 
 
 # 🏆 Honors and Awards
-- **2023**, Huawei Scholarship (Top 5%).
-- **2022**, Zhiyuan Outstanding Leader Scholarship.
-- **2022**, The First Prize Scholarship for Excellent Student (Top 1%).
-- **2022**, Merit Student (Top 1%).
-- **2021 - 2023**, Zhiyuan Honors Scholarship (3x).
+- *2023*, Huawei Scholarship (Top 5%).
+- *2022*, Zhiyuan Outstanding Leader Scholarship.
+- *2022*, The First Prize Scholarship for Excellent Student (Top 1%).
+- *2022*, Merit Student (Top 1%).
+- *2021 - 2023*, Zhiyuan Honors Scholarship (3x).
 
 
 
 # 📖 Educations
-- **2021.08 - 2025.06 (expected)**, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
-- **2024.01 - 2024.05**, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
-- **2023.08**, Student, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
+- *2021.08 - 2025.06 (expected)*, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
+- *2024.01 - 2024.05*, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
+- *2023.08*, Student, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
 
 
 
 # 💻 Internships
-- **2022.11 - Present**, Research Intern, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
-- **2024.01 - Present**, Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
+- *2022.11 - Present*, Research Intern, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
+- *2024.01 - Present*, Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
 
 
 <br>
