@@ -21,7 +21,7 @@ redirect_from:
 
 I'm a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics. In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong.
 
-During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests in my spare time.  Here are some selected awards:
+During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in several mathematical contests in my spare time. Here are some selected awards:
 <ul style="line-height: 110%">
 <li>The <u>Winning Prize</u> of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
 <li>The <u>Finalist Winner</u> of 2024 Mathematical Contest in Modeling (Top 3%),</li>
@@ -32,11 +32,11 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 
 
 My research interests are mainly about
-<span style="color: navy; font-size: 110%; font-weight: 140%">
+<span style="color: navy; font-size: 110%; font-weight: 150%">
 deep learning theory
 </span>
 and
-<span style="color: navy; font-size: 110%; font-weight: 140%">
+<span style="color: navy; font-size: 110%; font-weight: 150%">
 optimization
 </span>.
 I am studying efficient algorithms in Bayesian optimization and reinforcement learning under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). Moreover, I am also committed to studying the generalization of infinitely deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
