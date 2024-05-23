@@ -92,24 +92,24 @@ I am studying efficient algorithms in Bayesian optimization and reinforcement le
 
 
 # 🏆 Honors and Awards
-- *2023*,&ensp; Huawei Scholarship (Top 5%).
-- *2022*,&ensp; Zhiyuan Outstanding Leader Scholarship.
-- *2022*,&ensp; The First Prize Scholarship for Excellent Student (Top 1%).
-- *2022*,&ensp; Merit Student (Top 1%).
-- *2021 - 2023*,&ensp; Zhiyuan Honors Scholarship (3x).
+- 2023, Huawei Scholarship (Top 5%).
+- 2022, Zhiyuan Outstanding Leader Scholarship.
+- 2022, The First Prize Scholarship for Excellent Student (Top 1%).
+- 2022, Merit Student (Top 1%).
+- 2021 - 2023, Zhiyuan Honors Scholarship (3x).
 
 
 
 # 📖 Educations
-- *2021.08 - 2025.06 (expected)*,&ensp; B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
-- *2024.01 - 2024.05*,&ensp; Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
-- *2023.08*,&ensp; Student, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
+- 2021.08 - 2025.06 (expected),&ensp; B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
+- 2024.01 - 2024.05,&ensp; Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
+- 2023.08,&ensp; Student, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
 
 
 
 # 💻 Internships
-- *2022.11 - Present*,&ensp; Research Intern, Laboratory on Fast Algorithms and High-Performance Computing (advised by Prof. Zhenli Xu), Shanghai Jiao Tong University, Shanghai, China.
-- *2024.01 - Present*,&ensp; Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong, Hong Kong, China.
+- 2022.11 - Present,&ensp; Research Intern, Laboratory on Fast Algorithms and High-Performance Computing (advised by Prof. Zhenli Xu), Shanghai Jiao Tong University, Shanghai, China.
+- 2024.01 - Present,&ensp; Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong, Hong Kong, China.
 
 
 <br>
