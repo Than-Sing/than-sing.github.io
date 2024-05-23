@@ -57,7 +57,7 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 <div class='paper-box-image'>
     <div>
         <div class="badge">CVPR 2016</div>
-        <img src='images/500x300.png' alt="sym" width="100%">
+        <img src='images/ikrucb.gif' alt="sym" width="100%">
     </div>
 </div>
 
