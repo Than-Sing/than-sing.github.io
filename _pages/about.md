@@ -58,7 +58,7 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 
 <div class='paper-box-text' markdown="1">
 
-IKR-UCB: Efficient Online Solver for Black Box Optimization Based on Kernel Estimates
+<u><b>IKR-UCB: Efficient Online Solver for Black Box Optimization Based on Kernel Estimates</b></u>
 
 **Project**
 - Accelerate the Gaussian processes based Bayesian optimization methods.
@@ -79,7 +79,7 @@ IKR-UCB: Efficient Online Solver for Black Box Optimization Based on Kernel Esti
 
 <div class='paper-box-text' markdown="1">
 
-Depth-induced Neural Tangent Kernel
+<u><b>Depth-induced Neural Tangent Kernel</b></u>
 
 **Project**
 - The neural tangent kernel (NTK) is induced by infinite depth and finite width.
