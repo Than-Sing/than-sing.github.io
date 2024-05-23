@@ -62,7 +62,7 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 
 **Project**
 - Accelerate the Gaussian processes based Bayesian optimization methods.
-- More efficient quasi-uniform sampling with kernel density.
+- Kernel density induced quasi-uniform sampling.
 - Help generalize Monte Carlo tree search into continuous spaces.
 </div>
 </div>
