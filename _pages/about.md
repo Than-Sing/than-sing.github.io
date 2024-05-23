@@ -30,11 +30,6 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 <!-- <li>The Third Prize of 2022 China Undergraduate Mathematical Contest in Modeling.</li> -->
 </ul>
 
-<!-- - The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%)
-- The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Applied \& Comp. Math)
-- The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division)
-- The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling
-- The Third Prize of 2022 China Undergraduate Mathematical Contest in Modeling -->
 
 My research interests are mainly about
 <span style="color: blue; font-style: oblique; font-size: 120%">
@@ -46,6 +41,7 @@ optimization
 </span>.
 I am studying the acceleration algorithm of Bayesian optimization under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In addition, I am also committed to studying the generalization of infinite deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
 
+
 # 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf) | [简历](pdfs/CV_in_Chinese.pdf)
 
 
@@ -53,17 +49,16 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 # 📝 Working Papers
 
 <div class='paper-box'>
-
 <div class='paper-box-image'>
     <div>
-<!--         <div class="badge">xxx</div> -->
+        <!-- <div class="badge">xxx</div> -->
         <img src='images/ikrucb.gif' alt="sym" width="100%">
     </div>
 </div>
 
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+IKR-UCB: Efficient Online Solver for Black Box Optimization Based on Kernel Estimates
 
 **Project**
 - Accelerate the Gaussian processes based Bayesian optimization methods.
@@ -73,6 +68,25 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 </div>
 
 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+    <div>
+        <!-- <div class="badge">xxx</div> -->
+        <img src='images/shortcut.png' alt="sym" width="100%">
+    </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+Depth-induced Neural Tangent Kernel
+
+**Project**
+- The neural tangent kernel (NTK) is induced by infinite depth and finite width.
+- Reveal the weak dependence of gradients induced by seperating layers.
+- Based on the law of large numbers for weakly dependent series.
+</div>
+</div>
 
 
 
