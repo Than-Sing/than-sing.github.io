@@ -23,7 +23,7 @@ I'm a third year student from Zhiyuan College, Shanghai Jiao Tong University, ma
 
 During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests in my spare time.  Here are some selected awards:
 <ul style="line-height: 100%">
-<li>The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
+<li>The *Winning Prize* of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
 <li>The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%),</li>
 <li>The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division),</li>
 <li>The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling.</li>
@@ -91,21 +91,26 @@ I am studying the acceleration algorithm of Bayesian optimization under the guid
 
 
 # 🏆 Honors and Awards
-- *2023*, Huawei Scholarship (Top 5%).
-- *2022*, Zhiyuan Outstanding Leader Scholarship.
-- *2022*, The First Prize Scholarship for Excellent Student (Top 1%).
-- *2022*, Merit Student (Top 1%).
-- *2021 - 2023*, Zhiyuan Honors Scholarship (3x).
+- **2023**, Huawei Scholarship (Top 5%).
+- **2022**, Zhiyuan Outstanding Leader Scholarship.
+- **2022**, The First Prize Scholarship for Excellent Student (Top 1%).
+- **2022**, Merit Student (Top 1%).
+- **2021 - 2023**, Zhiyuan Honors Scholarship (3x).
 
 
 
 # 📖 Educations
-- *2021.08 - 2025.06 (expected)*, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
-- *2024.01 - 2024.05*, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
-- *2023.08*, Student, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
+- **2021.08 - 2025.06 (expected)**, B.S. in Mathematics and Applied Mathematics (Hons), Zhiyuan College, Shanghai Jiao Tong University, Shanghai, China.
+- **2024.01 - 2024.05**, Exchange student, Department of Mathematics, The Chinese University of Hong Kong, Hong Kong, China.
+- **2023.08**, Student, Summer School on Mathematical Methods in Science and Engineering, School of Mathematical Sciences, East China Normal University, Shanghai, China.
 
 
 
 # 💻 Internships
-- *2022.11 - Present*, Research Intern, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
-- *2024.01 - Present*, Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
+- **2022.11 - Present**, Research Intern, Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University, advised by Prof. Zhenli Xu.
+- **2024.01 - Present**, Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
+
+
+<br>
+<br>
+<br>
