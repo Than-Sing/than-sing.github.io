@@ -1,4 +1,4 @@
-![image](https://github.com/acRyan54/acRyan54.github.io/assets/89002928/af488a16-eb2b-42eb-ae26-973fd8f9f8fc)---
+---
 permalink: /
 title: ""
 excerpt: ""
