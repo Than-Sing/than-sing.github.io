@@ -24,9 +24,9 @@ I'm a third year student from Zhiyuan College, Shanghai Jiao Tong University, ma
 During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests in my spare time.  Here are some selected awards:
 <ul style="line-height: 110%">
 <li>The <u>Winning Prize</u> of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
-<li>The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%),</li>
-<li>The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division),</li>
-<li>The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling.</li>
+<li>The <u>Finalist Winner</u> of 2024 Mathematical Contest in Modeling (Top 3%),</li>
+<li>The <u>First Prize</u> of 2023 Chinese Mathematics Competitions (Shanghai Division),</li>
+<li>The <u>Second Prize</u> of 2023 Asia and Pacific Mathematical Contest in Modeling.</li>
 <!-- <li>The Third Prize of 2022 China Undergraduate Mathematical Contest in Modeling.</li> -->
 </ul>
 
