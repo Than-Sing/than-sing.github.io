@@ -32,11 +32,11 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 
 
 My research interests are mainly about
-<span style="color: navy; font-size: 110%; font-weight: 150%">
+<span style="color: royalblue; font-size: 120%; font-weight: 150%">
 deep learning theory
 </span>
 and
-<span style="color: navy; font-size: 110%; font-weight: 150%">
+<span style="color: royalblue; font-size: 120%; font-weight: 150%">
 optimization
 </span>.
 I am studying efficient algorithms in Bayesian optimization and reinforcement learning under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). Moreover, I am also committed to studying the generalization of infinitely deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
