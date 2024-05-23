@@ -23,7 +23,7 @@ I'm a third year student from Zhiyuan College, Shanghai Jiao Tong University, ma
 
 During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in many mathematical contests in my spare time.  Here are some selected awards:
 <ul style="line-height: 100%">
-<li>The *Winning Prize* of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
+<li>The Winning Prize of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
 <li>The Finalist Winner of 2024 Mathematical Contest in Modeling (Top 3%),</li>
 <li>The First Prize of 2023 Chinese Mathematics Competitions (Shanghai Division),</li>
 <li>The Second Prize of 2023 Asia and Pacific Mathematical Contest in Modeling.</li>
@@ -32,11 +32,11 @@ During the undergraduate period, in order to cultivate my ability of analysis an
 
 
 My research interests are mainly about
-<span style="color: blue; font-style: oblique; font-size: 120%">
+<span style="color: blue; font-size: 120%; font-weight: 120%">
 deep learning theory
 </span>
 and
-<span style="color: blue; font-style: oblique; font-size: 120%">
+<span style="color: blue; font-size: 120%; font-weight: 120%">
 optimization
 </span>.
 I am studying the acceleration algorithm of Bayesian optimization under the guidance of [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). In addition, I am also committed to studying the generalization of infinite deep neural networks, as well as the equivalence of the width and depth of neural networks, under the supervision of [Prof. Fenglei Fan](https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html).
