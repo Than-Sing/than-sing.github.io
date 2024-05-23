@@ -108,8 +108,8 @@ I am studying efficient algorithms in Bayesian optimization and reinforcement le
 
 
 # 💻 Internships
-- *2022.11 - Present*, Research Intern, Prof. Zhenli Xu's Laboratory on Fast Algorithms and High-Performance Computing, Shanghai Jiao Tong University.
-- *2024.01 - Present*, Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong.
+- *2022.11 - Present*&ensp, Research Intern, Laboratory on Fast Algorithms and High-Performance Computing, advised by Prof. Zhenli Xu, Shanghai Jiao Tong University, Shanghai, China.
+- *2024.01 - Present*&ensp, Research Intern, Prof. Fenglei Fan's Lab, The Chinese University of Hong Kong, Hong Kong, China.
 
 
 <br>
