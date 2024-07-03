@@ -21,15 +21,6 @@ redirect_from:
 
 I'm a third year student from Zhiyuan College, Shanghai Jiao Tong University, majoring in mathematics and applied mathematics. In the spring of 2024, I participated in the exchange program at the Department of Mathematics of The Chinese University of Hong Kong.
 
-During the undergraduate period, in order to cultivate my ability of analysis and modeling, I participated in several mathematical contests in my spare time. Here are some selected awards:
-<ul style="line-height: 110%">
-<li>The <u>Winning Prize</u> of 2024 S.-T. Yau College Student Mathematics Contest (Appl. & Comp. Math.),</li>
-<li>The <u>Finalist Winner</u> of 2024 Mathematical Contest in Modeling (Top 3%),</li>
-<li>The <u>First Prize</u> of 2023 Chinese Mathematics Competitions (Shanghai Division),</li>
-<li>The <u>Second Prize</u> of 2023 Asia and Pacific Mathematical Contest in Modeling.</li>
-<!-- <li>The Third Prize of 2022 China Undergraduate Mathematical Contest in Modeling.</li> -->
-</ul>
-
 
 My research interests are mainly about
 <span style="color: blue; font-size: 120%; font-weight: bold">
@@ -43,7 +34,7 @@ I am studying efficient algorithms in Bayesian optimization and reinforcement le
 
 
 
-# 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_in_English.pdf) | [简历](pdfs/CV_in_Chinese.pdf)
+# 👨🏻‍🎓 [My Curriculum Vitae](pdfs/CV_TanshengZhu.pdf)
 
 
 
