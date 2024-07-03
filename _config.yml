@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tansheng Zhu | 朱坦晟"
+title                    : "Tansheng Zhu"
 description              : "Junior at Zhiyuan College, Shanghai Jiao Tong University (SJTU)"
 repository               : "acRyan54/acRyan54.github.io"
 google_scholar_stats_use_cdn : false
